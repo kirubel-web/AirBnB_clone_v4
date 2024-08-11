@@ -1,4 +1,3 @@
-
 $(document).ready(init);
 
 const HOST = '0.0.0.0';
